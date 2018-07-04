@@ -1,0 +1,3 @@
+# exercises
+
+Practice makes perfect
